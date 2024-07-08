@@ -1,0 +1,193 @@
+{
+  "columns": [
+    {
+      "minWidth": 40,
+      "download": false,
+      "formatter": "rowSelection",
+      "titleFormatter": "rowSelection",
+      "resizable": true,
+      "headerSort": false,
+      "width": 51
+    },
+    {
+      "field": "Account No",
+      "title": "Account No",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 129
+    },
+    {
+      "field": "2022-08-01 00:00:00",
+      "title": "2022-08-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2022-09-01 00:00:00",
+      "title": "2022-09-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2022-10-01 00:00:00",
+      "title": "2022-10-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2022-11-01 00:00:00",
+      "title": "2022-11-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2022-12-01 00:00:00",
+      "title": "2022-12-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2023-01-01 00:00:00",
+      "title": "2023-01-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2023-02-01 00:00:00",
+      "title": "2023-02-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2023-03-01 00:00:00",
+      "title": "2023-03-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2023-04-01 00:00:00",
+      "title": "2023-04-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2023-05-01 00:00:00",
+      "title": "2023-05-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2023-06-01 00:00:00",
+      "title": "2023-06-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2023-07-01 00:00:00",
+      "title": "2023-07-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2023-08-01 00:00:00",
+      "title": "2023-08-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2023-09-01 00:00:00",
+      "title": "2023-09-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2023-10-01 00:00:00",
+      "title": "2023-10-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2023-11-01 00:00:00",
+      "title": "2023-11-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2023-12-01 00:00:00",
+      "title": "2023-12-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "2024-01-01 00:00:00",
+      "title": "2024-01-01 00:00:00",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 182
+    },
+    {
+      "field": "Next Month Forecast",
+      "title": "Next Month Forecast",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 185
+    }
+  ]
+}
